@@ -2,6 +2,9 @@
 #
 .DS_Store
 
+*.png
+*.jpg
+
 # Xcode
 #
 build/
