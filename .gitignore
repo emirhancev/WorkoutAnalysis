@@ -22,8 +22,10 @@ DerivedData
 project.xcworkspace
 **/.xcode.env.local
 
+# img
 *.png
 *.jpg
+assets/
 
 # Gradle
 /build/
