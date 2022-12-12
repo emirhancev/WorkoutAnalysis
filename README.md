@@ -9,4 +9,4 @@ Computer vision ile profesyonel düzeyde hareketin doğru açılarını kullanar
 ## PROJEDE KULLANILAN ARAÇLAR
 React native, python ile computer vision, sunucuda PythonAnywhere.
 
-![LOGO](https://imgyukle.com/f/2022/12/12/Jh9vLU.png)
+![](https://imgyukle.com/f/2022/12/12/Jh9vLU.png)
