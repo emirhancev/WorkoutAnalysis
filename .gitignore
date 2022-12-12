@@ -22,7 +22,6 @@ DerivedData
 project.xcworkspace
 **/.xcode.env.local
 
-#img
 *.png
 *.jpg
 
