@@ -1,5 +1,8 @@
 # FİTNESS HAREKETLERİNİN FORM ANALİZİ MOBİL UYGULAMA
 
+## PROJENİN ADI
+WORKOUT ANALYSIS
+
 ## PROBLEMİN TANIMI
 Spor salonlarına gidenlerin veya evde spor yapan kişilerin profesyonel destek alamayacağı durumlarda hareketlerin yanlış formda yapılmasıyla birlikte form bozuklukları ve sakatlıklar gibi problemlerin meydana gelmesi.
 
@@ -10,3 +13,4 @@ Computer vision ile profesyonel düzeyde hareketin doğru açılarını kullanar
 React native, python ile computer vision, sunucuda PythonAnywhere.
 
 ![](https://imgyukle.com/f/2022/12/12/Jh9vLU.png)
+
